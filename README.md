@@ -1,2 +1,2 @@
-# Java-per-11-12
-latihan prakt dasar pemrograman java
+# JAVA-PER-11-12
+Teddy-Septian A2.1900179
